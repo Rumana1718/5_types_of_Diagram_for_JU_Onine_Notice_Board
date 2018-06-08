@@ -1,6 +1,6 @@
+# Assignment 5:
 # 5_types_of_Diagram_for_JU_Onine_Notice_Board
 
-# Assignment 5
 
 1. E-R Diagram
 2. DFD model
